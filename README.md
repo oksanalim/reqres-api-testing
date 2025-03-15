@@ -129,6 +129,7 @@ Then run:
 ```bash
 newman run ReqRes_API_Collection.json
 ```
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/72c4f94b-3382-4e75-884b-227a41f7bd12" />
 
 
 
